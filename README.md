@@ -66,9 +66,3 @@ Make sure you have the following installed:
 
 ---
 
-# **🙌 Acknowledgements**
-
-Thanks to all contributors and the open-source community for the inspiration and support.
-
----
-
